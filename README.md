@@ -22,7 +22,7 @@ Langkah-langkah ini dilakukan pada PC tempat anda membuat virtual disk.
 1. Nyalakan fitur Hiper-V di windows.
     A. Klik kanan pada lambang windows (di taskbar) dan klik 'Apps and Features'.
 
-    ![turn on hyper-v 1](images/hyperv1.jpg)
+    ![turn on hyper-v 1](images/hyperv1_baru.jpg)
 
     B. Klik '**Programs and Features**' di bawah 'related settings'
 
