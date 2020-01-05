@@ -20,6 +20,20 @@ Ada beberapa cara yang dapat dilakukan. Salah satunya adalah dengan mengatur IP 
 ### Pembuatan .vhdx:
 Langkah-langkah ini dilakukan pada PC tempat anda membuat virtual disk.
 1. Nyalakan fitur Hiper-V di windows.
+    A. Klik kanan pada lambang windows (di taskbar) dan klik 'Apps and Features'.
+
+    [turn on hyper-v 1](images/hyperv1.jpg)
+
+    B. Klik '**Programs and Features**' di bawah 'related settings'
+
+    [turn on hyper-v 2](images/hyperv2.jpg)
+
+    C. Klik '**Turn Windows Features on or off**'
+
+    [turn on hyper-v 3](images/hyperv3.jpg)
+
+    D. Centang '**Hyper-V**' dan klik '**OK**'
+    Sumber: [Microsoft](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 2. Restart PC anda.
 3. Buat image (`.vhdx`) dengan langkah-langkah berikut:
     A. Atur virtual switch manager dan hal-hal lain sesuai kebutuhan.
