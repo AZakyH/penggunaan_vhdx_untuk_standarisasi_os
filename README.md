@@ -36,6 +36,7 @@ Langkah-langkah ini dilakukan pada PC tempat anda membuat virtual disk.
     Sumber: [Microsoft](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 2. Restart PC anda.
 3. Buat image (`.vhdx`) dengan langkah-langkah berikut:
+
     A. Atur virtual switch manager dan hal-hal lain sesuai kebutuhan.
     B. Create. Connect. Install.
     C. Activate windows pada virtual machine dan install software-software yang dibutuhkan sebagai standar laboratorium anda.
@@ -44,6 +45,7 @@ Langkah-langkah ini dilakukan pada PC tempat anda membuat virtual disk.
     F. _Copy_ file `.vhdx` tadi untuk diberikan pada PC-PC di lab anda.
 3. Open Easy BCD
     Langkah ini dilakukan agar virtual disk anda dapat di-_load_ pada windows boot loader.
+    
     A. Buka Easy BCD
     B. Portable/external media lalu lengkapi isiannya.
     C. Edit boot menu.
