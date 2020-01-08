@@ -4,7 +4,8 @@ Langkah-langkah pembuatan dan penggunaan `.vhdx` untuk standarisasi operating si
 **Perlu dipahami bahwa spesifikasi yang dicantumkan di sini ditulis berdasarkan environment yang digunakan saat penulis melakukan simulasi.**
 
 ### Kebutuhan:
-+ PC dengan host Windows 10 (untuk membuat image. Spesifikasi yang digunakan pada pembuatan tulisan ini adalah Intel Core i3 dengan RAM 4GB)
++ PC dengan host Windows 10 Pro atau Enterprise edition
+    Untuk membuat image. Spesifikasi yang digunakan pada pembuatan tulisan ini adalah Intel Core i3 dengan RAM 4GB. Mengapa Pro atau Enterprise? Karena fitur Hyper-V yang kita butuhkan hanya dapat diaktifkan pada kedua edisi tersebut.
 + Easy BCD pada setiap PC yang akan diberi virtual disk.
 
 #### Hardware:
